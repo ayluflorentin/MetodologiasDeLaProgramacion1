@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasP2\MetodologiasP2\obj\Debug\MetodologiasP2.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasP2\MetodologiasP2\obj\Debug\MetodologiasP2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasP2\MetodologiasP2\bin\Debug\MetodologiasP2.exe.config
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasP2\MetodologiasP2\bin\Debug\MetodologiasP2.exe
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasP2\MetodologiasP2\bin\Debug\MetodologiasP2.pdb
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasP2\MetodologiasP2\obj\Debug\MetodologiasP2.exe
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasP2\MetodologiasP2\obj\Debug\MetodologiasP2.pdb
