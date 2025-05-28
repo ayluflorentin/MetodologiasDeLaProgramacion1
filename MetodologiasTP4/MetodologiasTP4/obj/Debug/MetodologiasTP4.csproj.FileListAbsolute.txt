@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasTP4\MetodologiasTP4\obj\Debug\MetodologiasTP4.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasTP4\MetodologiasTP4\obj\Debug\MetodologiasTP4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasTP4\MetodologiasTP4\bin\Debug\MetodologiasTP4.exe.config
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasTP4\MetodologiasTP4\bin\Debug\MetodologiasTP4.exe
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasTP4\MetodologiasTP4\bin\Debug\MetodologiasTP4.pdb
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasTP4\MetodologiasTP4\obj\Debug\MetodologiasTP4.exe
+C:\Users\Acer\source\repos\MetodologiasDeLaProgramacion1\MetodologiasTP4\MetodologiasTP4\obj\Debug\MetodologiasTP4.pdb
