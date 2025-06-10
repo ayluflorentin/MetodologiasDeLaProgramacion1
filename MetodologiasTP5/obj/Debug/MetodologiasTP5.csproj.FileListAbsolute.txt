@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MetodologiasTP5\MetodologiasTP5\obj\Debug\MetodologiasTP5.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\MetodologiasTP5\MetodologiasTP5\obj\Debug\MetodologiasTP5.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MetodologiasTP5\MetodologiasTP5\bin\Debug\MetodologiasTP5.exe.config
+C:\Users\Acer\source\repos\MetodologiasTP5\MetodologiasTP5\bin\Debug\MetodologiasTP5.exe
+C:\Users\Acer\source\repos\MetodologiasTP5\MetodologiasTP5\bin\Debug\MetodologiasTP5.pdb
+C:\Users\Acer\source\repos\MetodologiasTP5\MetodologiasTP5\obj\Debug\MetodologiasTP5.exe
+C:\Users\Acer\source\repos\MetodologiasTP5\MetodologiasTP5\obj\Debug\MetodologiasTP5.pdb
